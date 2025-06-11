@@ -1,6 +1,4 @@
-# Xou Dou Qi - Jeu de la Jungle
-
-Un jeu de stratégie traditionnel chinois implémenté en Java avec interface console.
+# Xou Dou Qi (Jeu de la Jungle)
 
 ## Description
 
