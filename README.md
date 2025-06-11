@@ -8,12 +8,12 @@ Xou Dou Qi, également connu sous le nom de "Jeu de la Jungle" ou "Échecs des A
 
 ## Fonctionnalités
 
-- ✅ Gestion des comptes utilisateurs avec base de données SQLite
-- ✅ Implémentation complète des règles du jeu
-- ✅ Interface console intuitive
-- ✅ Historique des parties
-- ✅ Statistiques des joueurs
-- ✅ Sauvegarde automatique des résultats
+- Gestion des comptes utilisateurs avec base de données SQLite
+-  Implémentation complète des règles du jeu
+-  Interface console intuitive
+-  Historique des parties
+-  Statistiques des joueurs
+-  Sauvegarde automatique des résultats
 
 ## Règles du jeu
 
